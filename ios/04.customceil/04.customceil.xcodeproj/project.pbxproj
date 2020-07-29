@@ -15,6 +15,9 @@
 		9F0BC10B2445651800768BA3 /* CardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0BC10A2445651800768BA3 /* CardCell.swift */; };
 		9F0BC10D2445664300768BA3 /* WeaponsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0BC10C2445664300768BA3 /* WeaponsTableViewController.swift */; };
 		9F0BC10F24456C1C00768BA3 /* UIViewHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0BC10E24456C1C00768BA3 /* UIViewHelper.swift */; };
+		9FC7EAB4245552CC00BD4894 /* Weapon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC7EAB3245552CC00BD4894 /* Weapon.swift */; };
+		9FC7EAB62455680D00BD4894 /* DetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC7EAB52455680D00BD4894 /* DetailController.swift */; };
+		9FC7EAB82455690500BD4894 /* DetailCeil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC7EAB72455690500BD4894 /* DetailCeil.swift */; };
 		9FFBB86F2447768E00609A4A /* WeaponDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FFBB86E2447768E00609A4A /* WeaponDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +32,9 @@
 		9F0BC10A2445651800768BA3 /* CardCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardCell.swift; sourceTree = "<group>"; };
 		9F0BC10C2445664300768BA3 /* WeaponsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeaponsTableViewController.swift; sourceTree = "<group>"; };
 		9F0BC10E24456C1C00768BA3 /* UIViewHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewHelper.swift; sourceTree = "<group>"; };
+		9FC7EAB3245552CC00BD4894 /* Weapon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weapon.swift; sourceTree = "<group>"; };
+		9FC7EAB52455680D00BD4894 /* DetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailController.swift; sourceTree = "<group>"; };
+		9FC7EAB72455690500BD4894 /* DetailCeil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailCeil.swift; sourceTree = "<group>"; };
 		9FFBB86E2447768E00609A4A /* WeaponDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeaponDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -72,6 +78,9 @@
 				9F0BC10C2445664300768BA3 /* WeaponsTableViewController.swift */,
 				9F0BC10E24456C1C00768BA3 /* UIViewHelper.swift */,
 				9FFBB86E2447768E00609A4A /* WeaponDetailViewController.swift */,
+				9FC7EAB3245552CC00BD4894 /* Weapon.swift */,
+				9FC7EAB52455680D00BD4894 /* DetailController.swift */,
+				9FC7EAB72455690500BD4894 /* DetailCeil.swift */,
 			);
 			path = 04.customceil;
 			sourceTree = "<group>";
@@ -147,9 +156,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FC7EAB62455680D00BD4894 /* DetailController.swift in Sources */,
 				9F0BC10F24456C1C00768BA3 /* UIViewHelper.swift in Sources */,
 				9F0BC0F324455BDF00768BA3 /* AppDelegate.swift in Sources */,
 				9FFBB86F2447768E00609A4A /* WeaponDetailViewController.swift in Sources */,
+				9FC7EAB4245552CC00BD4894 /* Weapon.swift in Sources */,
+				9FC7EAB82455690500BD4894 /* DetailCeil.swift in Sources */,
 				9F0BC0F524455BDF00768BA3 /* SceneDelegate.swift in Sources */,
 				9F0BC10D2445664300768BA3 /* WeaponsTableViewController.swift in Sources */,
 				9F0BC10B2445651800768BA3 /* CardCell.swift in Sources */,
